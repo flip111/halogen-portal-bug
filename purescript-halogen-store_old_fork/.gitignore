@@ -1,0 +1,15 @@
+.*
+!.gitignore
+!.github
+!.editorconfig
+!.tidyrc.json
+
+bower_components
+node_modules
+
+output
+generated-docs
+
+*.lock
+
+example/**/app.js
